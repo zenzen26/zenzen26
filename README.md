@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-light.svg" />
-  <img alt="Calico Cat eating contributions" src="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg" />
-</picture>
+![Calico Cat Pacman](https://raw.githubusercontent.com/zenzen26/zenzen26/output/pacman-contribution-graph-dark.svg)
 
 ## 🐱 About Me
 
