@@ -1,25 +1,8 @@
-&lt;div align="center"&gt;
-  
-  &lt;!-- Animated Calico Cat Banner --&gt;
-  &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg"&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-light.svg"&gt;
-    &lt;img alt="Calico Cat eating contribution dots" src="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg" width="100%"&gt;
-  &lt;/picture&gt;
-  
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAA00,50:DA3D20,100:519A66&height=200&section=header&text=Zien%20Tham&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Data%20Analytics%20%7C%20Healthcare%20Tech&descSize=20&descAlignY=55" width="100%"/&gt;
-
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFAA00&center=true&vCenter=true&width=600&lines=Computing+Science+Graduate;AI+%26+Data+Analytics+Specialist;Clinical+Lab+ML+Experience;Cat+Lover+%F0%9F%90%B1;Frontend+Developer+%7C+Data+Storyteller" alt="Typing SVG" /&gt;
-
-&lt;/div&gt;
-
----
+| |
+|:---:|
+| ![Calico Cat Contribution Graph](https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg) |
 
 ## 🐱 About Me
-
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="60%"&gt;
 
 I'm a **Computing Science graduate** specializing in **AI & Data Analytics**, with hands-on experience applying machine learning in **clinical laboratory settings**. I bridge the gap between complex data and human-centered design, creating solutions that actually matter in healthcare.
 
@@ -31,22 +14,11 @@ I'm a **Computing Science graduate** specializing in **AI & Data Analytics**, wi
 
 **Looking for:** Entry to Junior Frontend Developer roles or Data Analyst/Science positions in **risk assessment** or **healthcare AI**.
 
-&lt;/td&gt;
-&lt;td width="40%" align="center"&gt;
-
-&lt;img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d4eW00eHJueTR6aG1tY3F1Y3E3bWZ1dXZ1dGZ1dGZ1dGZ1dGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCuk8Rs/giphy.gif" width="200px" style="border-radius: 50%; border: 3px solid #FFAA00; padding: 5px;" alt="Calico Cat Coding"/&gt;
-
 *Powered by mochas & cat cuddles* ☕🐱
-
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
 
 ---
 
-## 🎨 Tech Stack Palette
-
-&lt;div align="center"&gt;
+## 🎨 Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1a1a1a)
@@ -82,57 +54,12 @@ I'm a **Computing Science graduate** specializing in **AI & Data Analytics**, wi
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a1a)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)
 
-&lt;/div&gt;
-
 ---
-
-## 📊 GitHub Analytics
-
-&lt;div align="center"&gt;
-  
-  &lt;img width="49%" src="https://github-readme-stats.vercel.app/api?username=zenzen26&show_icons=true&theme=calm&hide_border=true&bg_color=0d1117&title_color=FFAA00&icon_color=DA3D20&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/&gt;
-  &lt;img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzen26&theme=calm&hide_border=true&background=0d1117&stroke=FFAA00&ring=DA3D20&fire=519A66&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FFAA00&sideLabels=c9d1d9" alt="GitHub Streak"/&gt;
-
-&lt;/div&gt;
-
-&lt;div align="center"&gt;
-  
-  &lt;img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzen26&layout=compact&theme=calm&hide_border=true&bg_color=0d1117&title_color=FFAA00&text_color=c9d1d9&langs_count=8" alt="Top Languages"/&gt;
-  
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=zenzen26&bg_color=0d1117&color=c9d1d9&line=FFAA00&point=DA3D20&area=true&hide_border=true&area_color=FFAA0020" width="100%" alt="Activity Graph"/&gt;
-
-&lt;/div&gt;
-
----
-
-## 🏆 Achievements & Trophies
-
-&lt;div align="center"&gt;
-  
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=zenzen26&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/&gt;
-  
-&lt;/div&gt;
-
----
-
 ## 🌐 Connect With Me
-
-&lt;div align="center"&gt;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/zi-en-tham-605a40161/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thamzien@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFAA00?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a1a)](https://your-portfolio-link.com)
-
-&lt;/div&gt;
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFAA00?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a1a)]([https://your-portfolio-link.com](https://my-portfolio-rouge-omega-93.vercel.app/))
 ---
+ ![Profile Views](https://komarev.com/ghpvc/?username=zenzen26&color=FFAA00&style=flat-square&label=Profile+Views)
 
-&lt;div align="center"&gt;
-  
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:519A66,50:DA3D20,100:FFAA00&height=100&section=footer" width="100%"/&gt;
-  
-  &lt;img src="https://komarev.com/ghpvc/?username=zenzen26&color=FFAA00&style=flat-square&label=Profile+Views" alt="Profile Views"/&gt;
-  
-  **"Turning data into stories, one commit at a time"** 🐾
-  
-&lt;/div&gt;
