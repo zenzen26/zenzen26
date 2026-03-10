@@ -1,6 +1,8 @@
-| |
-|:---:|
-| ![Calico Cat Contribution Graph](https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-light.svg" />
+  <img alt="Calico Cat eating contributions" src="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg" />
+</picture>
 
 ## 🐱 About Me
 
