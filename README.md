@@ -59,7 +59,7 @@ I'm a **Computing Science graduate** specializing in **AI & Data Analytics**, wi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/zi-en-tham-605a40161/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:thamzien@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFAA00?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a1a)]([https://your-portfolio-link.com](https://my-portfolio-rouge-omega-93.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFAA00?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a1a)](https://your-portfolio-link.com](https://my-portfolio-rouge-omega-93.vercel.app/)
 ---
  ![Profile Views](https://komarev.com/ghpvc/?username=zenzen26&color=FFAA00&style=flat-square&label=Profile+Views)
 
