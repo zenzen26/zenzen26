@@ -2,21 +2,25 @@ name: Generate Cat Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - name: Generate Cat Graph
+      - name: Generate Cat Contribution Graph
         uses: zenzen26/git-contribution-cat-graph@main
         with:
-          github_user_name: zenzen26
-          
+          github_user_name: ${{ github.repository_owner }}
+      
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
