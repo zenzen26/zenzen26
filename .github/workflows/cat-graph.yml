@@ -1,4 +1,4 @@
-name: Generate Cat Graph
+name: Generate Cat Contribution Graph
 
 on:
   schedule:
@@ -8,29 +8,24 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write        # for pushing code
-  actions: read
-  id-token: write
-  pages: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    timeout-minutes: 5
 
-      - name: generate git-contribution-cat-graph.svg
+    steps:
+      - name: Generate cat-contribution-graph SVG
         uses: zenzen26/git-contribution-cat-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ github.token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push git-contribution-cat-graph.svg to the output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
