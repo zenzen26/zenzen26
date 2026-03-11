@@ -1,4 +1,11 @@
-![Calico Cat Pacman](https://raw.githubusercontent.com/zenzen26/zenzen26/output/pacman-contribution-graph-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph.svg">
+  <img alt="Cat contribution graph"
+    src="https://raw.githubusercontent.com/zenzen26/zenzen26/output/cat-contribution-graph.svg">
+</picture>
 
 ## 🐱 About Me
 
